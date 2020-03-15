@@ -1,4 +1,4 @@
-# CHMEX Notary Node Proposal 2020
+# Notary Node 2020 Proposal and1-89
 
-## Voting Address ##
-**Region: EU**
+
+![Banner1.png](./Banner1.png)
